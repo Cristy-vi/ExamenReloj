@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    font-family: "Helvetica Neue";
+    
+
+}
+header {
+    color: white;
+    flex-direction: center;
+    
+}
+
+
+
+#reloj{
+    background-color: black;
+    padding: 0.5rem;
+    color: white;
+    font-family: "Helvetica Neue";
+    font-size: 5rem
+
+}
